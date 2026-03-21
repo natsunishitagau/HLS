@@ -1,0 +1,268 @@
+[INFO] parameter: IN_LIMIT: 5 MAX_LOOK_SIZE: 4 C_MAX: 500
+Seed: 0
+The number of logic qubits: 20
+The number of CNOT gates: 511
+[INFO] better ans: 993 in time: 0.109s. in iter 1
+[INFO] better ans: 861 in time: 0.204s. in iter 2
+[INFO] better ans: 849 in time: 0.982s. in iter 11
+[INFO] better ans: 801 in time: 1.053s. in iter 12
+[INFO] better ans: 741 in time: 1.28s. in iter 15
+[INFO] better ans: 735 in time: 1.346s. in iter 16
+[INFO] better ans: 723 in time: 3.374s. in iter 41
+[INFO] better ans: 690 in time: 4.164s. in iter 51
+[INFO] better ans: 660 in time: 7.228s. in iter 88
+[INFO] better ans: 642 in time: 10.445s. in iter 127
+[INFO] better ans: 621 in time: 12.046s. in iter 147
+[INFO] better ans: 558 in time: 12.109s. in iter 148
+[INFO] better ans: 522 in time: 219.564s. in iter 2652
+[INFO] better ans: 486 in time: 229.75s. in iter 2775
+[INFO] check over. Circult has no fault.
+Cnot gate count: 486
+Size of the best physical circuit:997
+Direction of best mapping: 0
+[INFO] restart count: 8519
+[INFO] total bridge decision count: 922053
+[INFO] best decision bridge count: 69
+Time cost :709.835 seconds.
+
+
+
+[INFO] parameter: IN_LIMIT: 5 MAX_LOOK_SIZE: 4 C_MAX: 500
+Seed: 1
+The number of logic qubits: 20
+The number of CNOT gates: 511
+[INFO] better ans: 1233 in time: 0.089s. in iter 1
+[INFO] better ans: 915 in time: 0.171s. in iter 2
+[INFO] better ans: 822 in time: 0.341s. in iter 4
+[INFO] better ans: 816 in time: 2.438s. in iter 29
+[INFO] better ans: 756 in time: 2.667s. in iter 32
+[INFO] better ans: 732 in time: 4.283s. in iter 51
+[INFO] better ans: 708 in time: 5.112s. in iter 61
+[INFO] better ans: 591 in time: 38.683s. in iter 468
+[INFO] better ans: 561 in time: 149.132s. in iter 1805
+[INFO] better ans: 543 in time: 149.321s. in iter 1808
+[INFO] better ans: 504 in time: 346.916s. in iter 4188
+[INFO] check over. Circult has no fault.
+Cnot gate count: 504
+Size of the best physical circuit:1015
+Direction of best mapping: 1
+[INFO] restart count: 10081
+[INFO] total bridge decision count: 1089735
+[INFO] best decision bridge count: 68
+Time cost :843.607 seconds.
+
+
+
+[INFO] parameter: IN_LIMIT: 5 MAX_LOOK_SIZE: 4 C_MAX: 500
+Seed: 2
+The number of logic qubits: 20
+The number of CNOT gates: 511
+[INFO] better ans: 1113 in time: 0.079s. in iter 1
+[INFO] better ans: 951 in time: 0.172s. in iter 2
+[INFO] better ans: 903 in time: 0.443s. in iter 5
+[INFO] better ans: 897 in time: 0.71s. in iter 8
+[INFO] better ans: 816 in time: 0.825s. in iter 9
+[INFO] better ans: 747 in time: 1.24s. in iter 14
+[INFO] better ans: 735 in time: 1.316s. in iter 15
+[INFO] better ans: 690 in time: 2.868s. in iter 34
+[INFO] better ans: 642 in time: 5.069s. in iter 62
+[INFO] better ans: 639 in time: 45.859s. in iter 554
+[INFO] better ans: 591 in time: 45.914s. in iter 555
+[INFO] better ans: 585 in time: 57.504s. in iter 700
+[INFO] better ans: 564 in time: 151.687s. in iter 1857
+[INFO] better ans: 531 in time: 212.731s. in iter 2588
+[INFO] better ans: 507 in time: 480.794s. in iter 5841
+[INFO] check over. Circult has no fault.
+Cnot gate count: 507
+Size of the best physical circuit:1018
+Direction of best mapping: 0
+[INFO] restart count: 11684
+[INFO] total bridge decision count: 1262606
+[INFO] best decision bridge count: 72
+Time cost :966.845 seconds.
+
+
+
+[INFO] parameter: IN_LIMIT: 5 MAX_LOOK_SIZE: 4 C_MAX: 500
+Seed: 3
+The number of logic qubits: 20
+The number of CNOT gates: 511
+[INFO] better ans: 1185 in time: 0.097s. in iter 1
+[INFO] better ans: 924 in time: 0.172s. in iter 2
+[INFO] better ans: 825 in time: 0.366s. in iter 4
+[INFO] better ans: 780 in time: 1.145s. in iter 13
+[INFO] better ans: 747 in time: 1.221s. in iter 14
+[INFO] better ans: 720 in time: 5.518s. in iter 65
+[INFO] better ans: 702 in time: 10.263s. in iter 122
+[INFO] better ans: 699 in time: 14.63s. in iter 175
+[INFO] better ans: 654 in time: 19.536s. in iter 235
+[INFO] better ans: 639 in time: 34.49s. in iter 415
+[INFO] better ans: 570 in time: 34.545s. in iter 416
+[INFO] better ans: 522 in time: 219.931s. in iter 2663
+[INFO] better ans: 492 in time: 261.169s. in iter 3159
+[INFO] check over. Circult has no fault.
+Cnot gate count: 492
+Size of the best physical circuit:1003
+Direction of best mapping: 0
+[INFO] restart count: 8959
+[INFO] total bridge decision count: 965445
+[INFO] best decision bridge count: 74
+Time cost :746.056 seconds.
+
+
+
+[INFO] parameter: IN_LIMIT: 5 MAX_LOOK_SIZE: 4 C_MAX: 500
+Seed: 4
+The number of logic qubits: 20
+The number of CNOT gates: 511
+[INFO] better ans: 1143 in time: 0.114s. in iter 1
+[INFO] better ans: 1047 in time: 0.199s. in iter 2
+[INFO] better ans: 990 in time: 0.298s. in iter 3
+[INFO] better ans: 918 in time: 0.401s. in iter 4
+[INFO] better ans: 876 in time: 0.564s. in iter 6
+[INFO] better ans: 774 in time: 0.629s. in iter 7
+[INFO] better ans: 762 in time: 1.669s. in iter 19
+[INFO] better ans: 720 in time: 1.904s. in iter 22
+[INFO] better ans: 690 in time: 2.047s. in iter 24
+[INFO] better ans: 681 in time: 43.039s. in iter 531
+[INFO] better ans: 642 in time: 47.818s. in iter 590
+[INFO] better ans: 609 in time: 85.484s. in iter 1058
+[INFO] better ans: 552 in time: 85.547s. in iter 1059
+[INFO] better ans: 516 in time: 86.428s. in iter 1071
+[INFO] better ans: 498 in time: 492.438s. in iter 5995
+[INFO] check over. Circult has no fault.
+Cnot gate count: 498
+Size of the best physical circuit:1009
+Direction of best mapping: 0
+[INFO] restart count: 11649
+[INFO] total bridge decision count: 1258205
+[INFO] best decision bridge count: 75
+Time cost :965.355 seconds.
+
+
+
+[INFO] parameter: IN_LIMIT: 5 MAX_LOOK_SIZE: 4 C_MAX: 500
+Seed: 5
+The number of logic qubits: 20
+The number of CNOT gates: 511
+[INFO] better ans: 840 in time: 0.084s. in iter 1
+[INFO] better ans: 813 in time: 0.175s. in iter 2
+[INFO] better ans: 774 in time: 0.352s. in iter 4
+[INFO] better ans: 759 in time: 1.221s. in iter 14
+[INFO] better ans: 657 in time: 1.345s. in iter 16
+[INFO] better ans: 534 in time: 1.405s. in iter 17
+[INFO] better ans: 531 in time: 336.801s. in iter 4070
+[INFO] better ans: 507 in time: 450.052s. in iter 5441
+[INFO] check over. Circult has no fault.
+Cnot gate count: 507
+Size of the best physical circuit:1018
+Direction of best mapping: 0
+[INFO] restart count: 11185
+[INFO] total bridge decision count: 1208178
+[INFO] best decision bridge count: 75
+Time cost :923.925 seconds.
+
+
+
+[INFO] parameter: IN_LIMIT: 5 MAX_LOOK_SIZE: 4 C_MAX: 500
+Seed: 6
+The number of logic qubits: 20
+The number of CNOT gates: 511
+[INFO] better ans: 1056 in time: 0.104s. in iter 1
+[INFO] better ans: 981 in time: 0.181s. in iter 2
+[INFO] better ans: 831 in time: 0.277s. in iter 3
+[INFO] better ans: 822 in time: 0.359s. in iter 4
+[INFO] better ans: 807 in time: 0.515s. in iter 6
+[INFO] better ans: 708 in time: 1.305s. in iter 16
+[INFO] better ans: 705 in time: 5.429s. in iter 68
+[INFO] better ans: 552 in time: 8.158s. in iter 102
+[INFO] better ans: 513 in time: 81.943s. in iter 980
+[INFO] check over. Circult has no fault.
+Cnot gate count: 513
+Size of the best physical circuit:1024
+Direction of best mapping: 1
+[INFO] restart count: 6756
+[INFO] total bridge decision count: 730819
+[INFO] best decision bridge count: 72
+Time cost :562.406 seconds.
+
+
+
+[INFO] parameter: IN_LIMIT: 5 MAX_LOOK_SIZE: 4 C_MAX: 500
+Seed: 7
+The number of logic qubits: 20
+The number of CNOT gates: 511
+[INFO] better ans: 1032 in time: 0.126s. in iter 1
+[INFO] better ans: 933 in time: 0.224s. in iter 2
+[INFO] better ans: 882 in time: 0.307s. in iter 3
+[INFO] better ans: 759 in time: 0.488s. in iter 5
+[INFO] better ans: 747 in time: 2.163s. in iter 25
+[INFO] better ans: 723 in time: 5.463s. in iter 64
+[INFO] better ans: 708 in time: 6.089s. in iter 71
+[INFO] better ans: 678 in time: 14.106s. in iter 166
+[INFO] better ans: 666 in time: 25.716s. in iter 305
+[INFO] better ans: 663 in time: 35.387s. in iter 418
+[INFO] better ans: 591 in time: 66.909s. in iter 792
+[INFO] better ans: 537 in time: 90.974s. in iter 1084
+[INFO] better ans: 510 in time: 91.334s. in iter 1089
+[INFO] check over. Circult has no fault.
+Cnot gate count: 510
+Size of the best physical circuit:1021
+Direction of best mapping: 1
+[INFO] restart count: 6865
+[INFO] total bridge decision count: 741563
+[INFO] best decision bridge count: 68
+Time cost :572.067 seconds.
+
+
+
+[INFO] parameter: IN_LIMIT: 5 MAX_LOOK_SIZE: 4 C_MAX: 500
+Seed: 8
+The number of logic qubits: 20
+The number of CNOT gates: 511
+[INFO] better ans: 1101 in time: 0.075s. in iter 1
+[INFO] better ans: 849 in time: 0.179s. in iter 2
+[INFO] better ans: 720 in time: 0.262s. in iter 3
+[INFO] better ans: 666 in time: 3.329s. in iter 40
+[INFO] better ans: 633 in time: 38.387s. in iter 458
+[INFO] better ans: 516 in time: 38.45s. in iter 459
+[INFO] better ans: 504 in time: 38.521s. in iter 460
+[INFO] check over. Circult has no fault.
+Cnot gate count: 504
+Size of the best physical circuit:1015
+Direction of best mapping: 1
+[INFO] restart count: 6364
+[INFO] total bridge decision count: 687781
+[INFO] best decision bridge count: 74
+Time cost :524.51 seconds.
+
+
+
+[INFO] parameter: IN_LIMIT: 5 MAX_LOOK_SIZE: 4 C_MAX: 500
+Seed: 9
+The number of logic qubits: 20
+The number of CNOT gates: 511
+[INFO] better ans: 1107 in time: 0.092s. in iter 1
+[INFO] better ans: 825 in time: 0.192s. in iter 2
+[INFO] better ans: 810 in time: 0.902s. in iter 10
+[INFO] better ans: 774 in time: 1.161s. in iter 13
+[INFO] better ans: 732 in time: 2.095s. in iter 24
+[INFO] better ans: 723 in time: 2.496s. in iter 29
+[INFO] better ans: 720 in time: 6.391s. in iter 75
+[INFO] better ans: 615 in time: 8.287s. in iter 98
+[INFO] better ans: 597 in time: 43.594s. in iter 522
+[INFO] better ans: 552 in time: 45.2s. in iter 543
+[INFO] better ans: 531 in time: 113.301s. in iter 1350
+[INFO] better ans: 516 in time: 222.772s. in iter 2667
+[INFO] better ans: 504 in time: 247.46s. in iter 2970
+[INFO] check over. Circult has no fault.
+Cnot gate count: 504
+Size of the best physical circuit:1015
+Direction of best mapping: 1
+[INFO] restart count: 8625
+[INFO] total bridge decision count: 932447
+[INFO] best decision bridge count: 64
+Time cost :721.159 seconds.
+
+
+
