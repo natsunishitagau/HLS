@@ -1,0 +1,13 @@
+ qcir read ../benchmarks/QV/quantum_volume_5_loop4.qasm
+
+qsyn> duostra --mute-tqdm
+Routing...
+Duostra Result: 
+
+Scheduler:      search
+Router:         duostra
+Placer:         dfs
+
+Mapping Depth:  184
+Total Time:     598
+#SWAP:          23

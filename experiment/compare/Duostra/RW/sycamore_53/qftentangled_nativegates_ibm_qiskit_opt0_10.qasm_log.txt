@@ -1,0 +1,13 @@
+ qcir read ../benchmarks/RW/qftentangled_nativegates_ibm_qiskit_opt0_10.qasm
+
+qsyn> duostra --mute-tqdm
+Routing...
+Duostra Result: 
+
+Scheduler:      search
+Router:         duostra
+Placer:         dfs
+
+Mapping Depth:  216
+Total Time:     780
+#SWAP:          92

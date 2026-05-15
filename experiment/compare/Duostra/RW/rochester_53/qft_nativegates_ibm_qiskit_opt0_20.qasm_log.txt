@@ -1,0 +1,15 @@
+ device read ./benchmark/topology/rochester_53.layout
+
+qsyn> qcir read ../benchmarks/RW/qft_nativegates_ibm_qiskit_opt0_20.qasm
+
+qsyn> duostra --mute-tqdm
+Routing...
+Duostra Result: 
+
+Scheduler:      search
+Router:         duostra
+Placer:         dfs
+
+Mapping Depth:  874
+Total Time:     4594
+#SWAP:          629

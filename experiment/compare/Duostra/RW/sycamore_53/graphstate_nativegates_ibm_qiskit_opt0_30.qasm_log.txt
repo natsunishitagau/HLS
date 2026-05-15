@@ -1,0 +1,15 @@
+ device read ./benchmark/topology/sycamore_53.layout
+
+qsyn> qcir read ../benchmarks/RW/graphstate_nativegates_ibm_qiskit_opt0_30.qasm
+
+qsyn> duostra --mute-tqdm
+Routing...
+Duostra Result: 
+
+Scheduler:      search
+Router:         duostra
+Placer:         dfs
+
+Mapping Depth:  64
+Total Time:     390
+#SWAP:          55

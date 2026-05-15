@@ -1,0 +1,13 @@
+ qcir read ../benchmarks/QUEKNO/16QBT_large_gate_opt2_60_1_no.0.qasm
+
+qsyn> duostra --mute-tqdm
+Routing...
+Duostra Result: 
+
+Scheduler:      search
+Router:         duostra
+Placer:         dfs
+
+Mapping Depth:  527
+Total Time:     2424
+#SWAP:          251

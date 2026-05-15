@@ -1,0 +1,15 @@
+ device read ./benchmark/topology/sycamore_53.layout
+
+qsyn> qcir read ../benchmarks/QUEKNO/53QBT_large_gate_opt2_5_1_no.5.qasm
+
+qsyn> duostra --mute-tqdm
+Routing...
+Duostra Result: 
+
+Scheduler:      search
+Router:         duostra
+Placer:         dfs
+
+Mapping Depth:  175
+Total Time:     1662
+#SWAP:          240

@@ -1,0 +1,16 @@
+ device read ./benchmark/topology/torino_133.layout
+qcir read ../benchmarks/QUEKNO/20QBT_large_gate_opt1_60_1_no.1.qasm
+
+qsyn> qcir read ../benchmarks/QUEKNO/20QBT_large_gate_opt1_60_1_no.1.qasm
+
+qsyn> duostra --mute-tqdm
+Routing...
+Duostra Result: 
+
+Scheduler:      search
+Router:         duostra
+Placer:         dfs
+
+Mapping Depth:  2834
+Total Time:     17619
+#SWAP:          2555

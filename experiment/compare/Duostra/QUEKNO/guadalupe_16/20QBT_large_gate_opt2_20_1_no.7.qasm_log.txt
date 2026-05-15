@@ -1,0 +1,4 @@
+ qcir read ../benchmarks/QUEKNO/20QBT_large_gate_opt2_20_1_no.7.qasm
+
+qsyn> duostra --mute-tqdm
+[error]    Number of logical qubits are larger than the device

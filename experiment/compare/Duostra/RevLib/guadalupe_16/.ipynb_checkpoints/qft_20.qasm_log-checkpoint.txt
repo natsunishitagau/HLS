@@ -1,0 +1,4 @@
+ qcir read ../benchmarks/RevLib/qft_20.qasm
+
+qsyn> duostra --mute-tqdm
+[error]    Number of logical qubits are larger than the device

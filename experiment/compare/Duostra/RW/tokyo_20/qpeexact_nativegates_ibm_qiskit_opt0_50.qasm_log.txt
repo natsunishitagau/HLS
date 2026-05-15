@@ -1,0 +1,6 @@
+ device read ./benchmark/topology/tokyo_20.layout
+
+qsyn> qcir read ../benchmarks/RW/qpeexact_nativegates_ibm_qiskit_opt0_50.qasm
+
+qsyn> duostra --mute-tqdm
+[error]    Number of logical qubits are larger than the device

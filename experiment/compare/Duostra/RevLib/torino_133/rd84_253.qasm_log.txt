@@ -1,0 +1,17 @@
+ device read ./benchmark/topology/torino_133.layout
+qcir read ../benchmarks/RevLib/rd84_253.qasm
+
+qsyn> qcir read ../benchmarks/RevLib/rd84_253.qasm
+duostra --mute-tqdm
+
+qsyn> duostra --mute-tqdm
+Routing...
+Duostra Result: 
+
+Scheduler:      search
+Router:         duostra
+Placer:         dfs
+
+Mapping Depth:  32805
+Total Time:     79102
+#SWAP:          9914

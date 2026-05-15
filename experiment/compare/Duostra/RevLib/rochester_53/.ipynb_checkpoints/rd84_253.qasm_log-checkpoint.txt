@@ -1,0 +1,15 @@
+ device read ./benchmark/topology/rochester_53.layout
+
+qsyn> qcir read ../benchmarks/RevLib/rd84_253.qasm
+
+qsyn> duostra --mute-tqdm
+Routing...
+Duostra Result: 
+
+Scheduler:      search
+Router:         duostra
+Placer:         dfs
+
+Mapping Depth:  32745
+Total Time:     82384
+#SWAP:          10461

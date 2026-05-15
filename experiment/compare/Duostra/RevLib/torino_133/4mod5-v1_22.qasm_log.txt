@@ -1,0 +1,13 @@
+ qcir read ../benchmarks/RevLib/4mod5-v1_22.qasm
+
+qsyn> duostra --mute-tqdm
+Routing...
+Duostra Result: 
+
+Scheduler:      search
+Router:         duostra
+Placer:         dfs
+
+Mapping Depth:  51
+Total Time:     62
+#SWAP:          5

@@ -160,7 +160,7 @@ void findActivegates(vector<list<gate>> & lines,vector<gate> & activeGates,vecto
             activeLines.erase(i);
             continue;
         }
-        // in one gate，i could be control, or could betarget
+        // in one gate, i could be control, or could be target
         // j is the other qubit
         gate g1 = lines[i].front();
         int c = g1.control;
